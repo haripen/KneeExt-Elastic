@@ -1,6 +1,6 @@
 %% A MAIN FUNCTION
 function [ t,F,X,V,dV,v_SEE,f_CE,v_CE,f_PEE,f_MTC,v_MTC,GX,AT,...
-    FL,l_SEE,l_CE,l_MTC ] = JumpSIM_Diss_HP
+    FL,l_SEE,l_CE,l_MTC ] = KneeExtElastic
 % JUMPSIM_DISS_HP simulates a leg extension at an inclined legpress
 %
 %  It includes a parallel-elastic element,
