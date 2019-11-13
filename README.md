@@ -13,6 +13,8 @@ Further details are given in the header of KneeExtElastic.m
 
 This is an upgrade to the KneeExt simulation (https://github.com/haripen/KneeExt) which adds length dependencies, serial- and parallel elastic elements to the previous model consisting of activation dynamics, force-velocity relation and a geometrical relatrion.
 
+Subject specific values of anthropometry, muscle activation, and force-velocity relationship as well as external loads can be manipulated to understand the effect of geometrical relations, elasticities, length dependencies and muscle properties differing between individuals.
+
 The model was developed during and is described in my dissertation which is available an ResearchGate(1). 
 
 The model is published in the following article:
