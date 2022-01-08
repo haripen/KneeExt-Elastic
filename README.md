@@ -1,5 +1,5 @@
 # KneeExt-Elastic
-A simple Hill-type leg-press simulation for a concentric knee extension in Matlab
+A ready to go Matlab function for a physics-based simulation of a concentric leg-press knee extension task - including serial and parallel elastic elements.
 
 INPUT
 
