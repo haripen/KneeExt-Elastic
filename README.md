@@ -1,5 +1,11 @@
 # KneeExt-Elastic
-A ready to go Matlab function for a physics-based simulation of a concentric leg-press knee extension task - including serial and parallel elastic elements.
+A ready to go Matlab or Python function for a physics-based simulation of a concentric leg-press knee extension task - including serial and parallel elastic elements.
+
+```bash
+cd <your\path\to\the\py\fuction>
+python knee_ext_elastic_cli.py --output-dir ./results
+```
+
 
 *Note:* The Matlab function also runs in Octave either [online](https://octave-online.net) or [locally offline on a macOS](https://wiki.octave.org/Octave_for_macOS) or on [Windows](https://wiki.octave.org/Octave_for_Microsoft_Windows)
 
